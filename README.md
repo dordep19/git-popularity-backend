@@ -1,6 +1,6 @@
 # git-popularity-backend
 
-The backend for serving data from Github API to flutter frontend.
+The backend for serving Github populariy flutter app data.
 
 ## Development
 
