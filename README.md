@@ -14,3 +14,9 @@ This activates the virtual env and dependencies can now be installed local to th
 ```
 pip install -r requirements.txt
 ```
+
+To run the backend server in development mode:
+
+```
+python app.py
+```
